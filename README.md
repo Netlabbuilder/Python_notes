@@ -1,2 +1,2 @@
 # Python
-Python for Network, System, Cyber Security and Automation
+My notes on Python for Network, System, Cyber Security and Automation
