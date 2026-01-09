@@ -5,6 +5,7 @@ import urllib3
 
 urllib3.disable_warnings()
 
+# If proxy settings are required
 proxies = {
     "http": "http://127.0.0.1:9000",
     "https": "http://127.0.0.1:9000",
@@ -46,3 +47,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
